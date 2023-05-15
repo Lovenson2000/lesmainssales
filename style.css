@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
 
 
-*{
+body, *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -441,7 +441,7 @@ p {
     }
 
     .hero-left {
-        width: 100%;
+        width: 90%;
         height: 50%;
         text-align: center;
         padding: 8rem 3rem;
@@ -539,7 +539,7 @@ p {
         top: 9.7rem;
     }
     .hero-left {
-        width: 100%;
+        width: 90%;
         height: 50%;
         text-align: center;
         padding: 6rem 2rem;

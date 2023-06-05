@@ -1139,7 +1139,7 @@ p {
   }
 }
 
-@media (min-width: 21rem) and (max-width: 23rem) {
+@media (min-width: 22rem) and (max-width: 23rem) {
   .hero-left {
     padding: 3rem 0.5rem;
   }

@@ -180,7 +180,7 @@ body {
 }
 
 #sales {
-  color: rgb(32, 4, 211);
+  color: rgb(0, 100, 0);
 }
 
 p {
@@ -228,7 +228,7 @@ p {
   padding: 0.84rem 3.5rem;
   border-radius: 4px;
   text-decoration: none;
-  background-color: rgb(32, 4, 211);
+  background-color: rgb(0, 100, 0);
   text-transform: uppercase;
   font-size: 0.8rem;
   color: white;
@@ -237,8 +237,7 @@ p {
 
 .btn:hover {
   color: rgb(3, 2, 10);
-  background-color: white;
-  border: 2px solid rgb(3, 2, 10);
+  background-color: rgb(200,200,200);
   border-radius: 10px;
 }
 
@@ -255,6 +254,7 @@ p {
 .btn-2:hover {
   border: none;
   box-shadow: 1rem 1rem 10rem black;
+  background-color: rgb(200,200,200);
   transform: translateY(2rem);
   padding: 0.9rem 2.4rem;
 }
